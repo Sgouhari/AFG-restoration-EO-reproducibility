@@ -244,10 +244,4 @@ The scripts include internal QA checks so that users running the workflow can id
 
 ## Citation
 
-Please cite the associated manuscript and the archived code release. Add the final repository DOI when available.
-
-```text
-[Authors]. [Year]. Reproducibility code for “Monitoring restoration interventions
-using Earth observation in a post-conflict forest and watershed programme in
-Afghanistan”. [Repository]. [DOI].
-```
+Gouhari S, Duncan A, Watmough GR (2026). Reproducibility code for “Monitoring restoration interventions using Earth observation in a post-conflict forest and watershed programme in Afghanistan”. GitHub. https://github.com/Sgouhari/AFG-restoration-EO-reproducibility
