@@ -1,0 +1,8 @@
+# Python packages used by the reproducibility scripts.
+# ArcPy is supplied with ArcGIS Pro and is not installed from PyPI.
+# Exact versions can be added if they are available from the final analysis environment.
+
+numpy
+pandas
+scipy
+statsmodels
